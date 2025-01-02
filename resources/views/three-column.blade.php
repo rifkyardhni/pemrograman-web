@@ -86,10 +86,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="cart-box">
-                    <a href="#"><i class="fas fa-search"></i></a>
-                    <a href="#"><img src="assets/images/cart.png" alt="cart"></a>
-                </div>
             </nav>
         </div>
     </div>

@@ -67,7 +67,7 @@
                             <a class="nav-link p-0" href="projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="three-column">Artikel</a>
+                            <a class="nav-link p-0" href="artikel">Artikel</a>
                         </li>
                     </ul>
                     <div class="header-contact d-flex align-items-center">
@@ -80,10 +80,6 @@
                             </div>                            
                         </div>
                     </div>
-                </div>
-                <div class="cart-box">
-                    <a href="#"><i class="fas fa-search"></i></a>
-                    <a href="#"><img src="assets/images/cart.png" alt="cart"></a>
                 </div>
             </nav>
         </div>
@@ -840,7 +836,7 @@
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Nov 29, 2024</span>
                                 <h4><a href="cara-menghilangkan-overthinking-untuk-kesehatan-mental">Cara Menghilangkan Overthinking untuk Kesehatan Mental</a></h4>
-                                <p>Overthinking adalah kebiasaan tidak sehat yang biasanya menyebabkan lebih banyak Stres dengan berfokus pada hal negatif, memikirkan masa lalu dan mengkhawatirkan masa depan...</p>
+                                <p>Berpikir adalah hal yang esensial bagi manusia. Namun, berpikir berlebihan atau overthinking justru dapat berdampak negatif pada kesehatan mental. Oleh karena itu, kamu...</p>
                                 <a href="cara-menghilangkan-overthinking-untuk-kesehatan-mental">Baca Selengkapnya <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -922,7 +918,7 @@
                         <li class="position-relative"><a href="services"><i
                                     class="fas fa-angle-right"></i>Layanan</a></li>
                         <li class="position-relative"><a href="projects"><i class="fas fa-angle-right"></i>Projects</a></li>
-                        <li class="position-relative"><a href="three-column"><i
+                        <li class="position-relative"><a href="artikel"><i
                                     class="fas fa-angle-right"></i>Artikel</a></li>
                         <li class="position-relative"><a href="faq"><i
                                     class="fas fa-angle-right"></i>FAQ</a></li>

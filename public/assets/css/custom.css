@@ -7,7 +7,7 @@
     --text-color: #7a7a7a;
     --button-color: #156c5f;
 }
-service-banner-img1
+
 * {
     margin: 0;
     padding: 0;
@@ -62,6 +62,32 @@ h5 {
     line-height: 22px;
     font-family: 'Marcellus', serif;
     color: var(--secondary-color);
+}
+
+h6 {
+    font-size: 28px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: 'Marcellus', serif;
+    color: var(--secondary-color);
+}
+
+h7 {
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 400;
+    font-family: 'Marcellus', serif;
+    color: var(--secondary-color);
+}
+
+ol {
+    margin: 0 0 1em 1em; /* Menyesuaikan margin kiri untuk indentasi */
+    padding: 0;
+}
+
+ul {
+    margin: 0 0 1em 1em; /* Menyesuaikan margin kiri untuk indentasi */
+    padding: 0;
 }
 
 .small-text {

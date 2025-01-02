@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>20 Jenis Sayuran yang Mendukung Kesehatan Tubuh</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,16 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image4.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>20 Jenis Sayuran yang Mendukung Kesehatan Tubuh</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : dr. Rizal Fadli</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Des 19, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Istilah “sayuran” mengacu pada kelompok makanan yang terdiri dari berbagai jenis tumbuhan yang dapat dimakan. Sayuran merupakan bagian penting dari pola makan sehat karena kaya akan berbagai nutrisi penting seperti vitamin, mineral, serat, dan senyawa antioksidan. <br><br>
+                                Berdasarkan kandungan nutrisinya, sayuran menjadi salah satu superfood yang bermanfaat untuk kesehatan tubuh. Lantas, apa saja jenis sayuran yang menyehatkan tubuh?</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -117,67 +116,119 @@
                             </figure>
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
-                        </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>Jenis Sayuran yang Menyehatkan Tubuh</h6></div>
+                            <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                                Sayuran adalah salah satu makanan yang kaya akan nutrisi dan sangat penting untuk menjaga kesehatan tubuh. Setiap orang dewasa perlu mengonsumsi sayuran setidaknya 400 gram atau 2,5 cangkir sayuran setiap harinya. Sayuran mengandung berbagai zat gizi penting seperti serat, vitamin, mineral, dan antioksidan yang berperan dalam menjaga daya tahan tubuh dan mencegah penyakit. <br>
+                            <br>Berikut adalah beberapa jenis sayuran yang direkomendasikan untuk mendukung kesehatan tubuh:
                         </div><br>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
+                            <h6>1. Kale</h6>
+                            Kale menjadi salah satu kudapan yang kaya nutrisi, seperti antioksidan, vitamin C, beta karoten, dan vitamin K. Mengonsumsi sayuran ini dapat membantu menjaga kesehatan mata, mengontrol berat badan, hingga menyehatkan organ jantung.<br><br>                          
+                        </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
+                            <h6>2. Bit</h6>
+                            Bit mengandung serat, folat, fosfor, serta vitamin C dan A. Berdasarkan komposisinya ini, bit memiliki manfaat penting dalam menjaga kesehatan jantung, mencegah diabetes, dan mendukung fungsi organ serta sistem pencernaan tubuh.
+                        </div><br>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                            <h6>3. Bayam</h6>
+                            Sayuran berwarna hijau ini tinggi antioksidan dan vitamin K. Rutin mengonsumsi makanan sehat ini dapat menurunkan risiko tekanan darah tinggi dan menjaga jantung tetap sehat secara menyeluruh.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>4. Sayuran Brokoli</h6>
+                            Brokoli adalah sayuran cruciferous yang kaya akan vitamin C, vitamin K, dan asam folat. Brokoli juga mengandung senyawa sulforaphane, yang dikenal memiliki sifat antikanker. Mengonsumsi brokoli secara rutin dapat membantu melindungi tubuh dari penyakit kronis seperti kanker, diabetes, dan penyakit jantung.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>5. Wortel</h6>
+                            Wortel mengandung karbohidrat, serat, hingga protein. Selain itu, makanan sehat ini juga tinggi akan kandungan zat besi, vitamin A, K, dan C. <br><br>
+                            Manfaatnya mulai dari menjaga kesehatan mata, membantu melindungi tubuh dari kerusakan akibat radikal bebas, meningkatkan regenerasi sel kulit, hingga mendukung kinerja organ jantung.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>6. Sayuran Asparagus</h6>
+                            Asparagus menjadi sayuran yang cocok sebagai menu diet. Bahan makanan ini tinggi akan kandungan folat, vitamin K, tiamin, dan riboflavin. Konsumsinya dapat membantu mengontrol sekaligus menurunkan berat badan.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>7. Kol Merah</h6>
+                            Kol merah memiliki kandungan vitamin D yang tinggi, yang bermanfaat untuk merawat kesehatan tulang. Di samping itu, serat yang terdapat dalam sayuran ini juga dapat membantu mencegah masalah sembelit atau gangguan pencernaan.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>8. Ubi</h6>
+                            Serat tidak hanya menjadi satu-satunya nutrisi baik yang ada pada ubi. <br>
+                            <br>Makanan satu ini juga mengandung protein, potasium, mangan, vitamin B6, C, dan vitamin A yang dapat membantu mengontrol gula darah dan kolesterol.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>9. Paprika</h6>
+                            Paprika menjadi jenis makanan yang dimanfaatkan untuk penyedap rasa. Siapa sangka, jenis makanan ini justru mengandung vitamin C dan serat. <br>
+                            <br>Terutama paprika merah, adalah sumber vitamin C yang sangat tinggi. Satu paprika merah bahkan mengandung lebih banyak vitamin C daripada jeruk. Selain itu, paprika juga mengandung vitamin A dan senyawa karotenoid yang baik untuk kesehatan mata dan kulit.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>10. Jamur</h6>
+                            Jamur tinggi akan selenium, vitamin B6, riboflavin, potasium, hingga zink. <br>
+                            <br>Mengonsumsi sayur ini dengan jumlah yang tepat dapat membantu menguatkan sistem imun tubuh, menurunkan tekanan darah, hingga menjaga berat badan ideal. <br>
+                            <br>Catatan Penting: Tidak semua jamur aman untuk dikonsumsi. Beberapa jenis jamur liar dapat beracun. Pastikan untuk membeli jamur dari sumber yang terpercaya.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>11. Bawang Bombay</h6>
+                            Bawang bombay mengandung senyawa belerang sekaligus vitamin C, B6, dan mangan. Berkat kandungannya, bawang bombay mampu membantu mencegah perkembangan sel kanker. <br>
+                            <br>Menariknya lagi, bawang bombay juga teruji dapat membantu mengatur kadar gula darah. Manfaat ini tentunya yang penting bagi pengidap kencing manis atau pradiabetes.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>12. Bawang Putih</h6>
+                            Bawang putih mengandung senyawa belerang, mangan, dan vitamin B6 serta C. <br>
+                            <br>Dari kandungan tersebut, bumbu rempah satu ini mampu meningkatkan sistem imun tubuh dan menurunkan tekanan darah tinggi.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>13. Rumput laut</h6>
+                            Rumput laut mengandung asam lemak omega-3, yaitu asam dokosaheksaenoat [DHA] dan asam eicosapentaenoate [EPA]. <br>
+                            <br>Selain itu, ada pula antioksidan yang efektif untuk mencegah kerusakan sel dengan mengatasi peradangan. 
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>14. Sayuran Pare</h6>
+                            Pare, atau yang dikenal juga sebagai Momordica charantia, adalah salah satu sayuran yang terkenal dengan rasa pahitnya. Meskipun rasanya kurang disukai sebagian orang, pare memiliki berbagai kandungan nutrisi yang membuatnya menjadi salah satu makanan sehat. <br>
+                            <br>Pare kaya akan vitamin, mineral, dan senyawa bioaktif yang memberikan manfaat besar bagi tubuh, terutama dalam mendukung kesehatan pencernaan, metabolisme, dan sistem kekebalan tubuh.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>15. Buncis</h6>
+                            Buncis mengandung protein nabati, serat, dan vitamin B yang baik untuk menjaga kesehatan pencernaan dan memberikan energi. Kandungan magnesiumnya juga membantu menjaga tekanan darah tetap stabil.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>16. Sayuran Sawi</h6>
+                            Sawi juga menjadi jenis sayur yang tidak boleh kamu lewatkan. Ini karena kandungan kalium, serat, karbohidrat, vitamin K, zinc, magnesium, dan kalsiumnya yang tinggi. <br>
+                            <br>Adapun manfaat mengonsumsi sawi adalah meningkatkan imun tubuh dan menjaga kesehatan jantung.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>17. Kangkung</h6>
+                            Kangkung mengandung kadar vitamin A, C, dan B kompleks yang cukup tinggi. Yang menarik, sayuran ini memiliki kemampuan untuk meningkatkan hormon yang berpengaruh pada ketenangan mental dan emosional. <br>
+                            <br>Tidak hanya itu, kangkung juga mengandung kalium, kalsium, dan fosfor yang membantu dalam menurunkan kadar kolesterol dan mengatasi masalah anemia.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>18. Daun Kemangi</h6>
+                            Sayur dengan aroma yang begitu khas ini mengandung berbagai antioksidan penting, salah satunya adalah betakaroten. <br>
+                            <br>Manfaatnya mulai dari menurunkan risiko radang sendi hingga kanker.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>19. Sayuran Seledri</h6>
+                            Jenis sayur yang mengandung vitamin A dan C, serta tinggi serat dan rendah kalori. <br>
+                            <br>Fungsinya dapat meningkatkan imunitas tubuh hingga membantu menjaga kesehatan mata dan kulit.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>20. Kubis</h6>
+                            Sayuran ini tinggi serat tapi rendah akan kalori. Kamu bisa mengonsumsi sayur ini untuk mendapatkan berat tubuh ideal sekaligus pencernaan yang sehat.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>Apa Kata Riset?</h6>
+                            Penelitian yang dirilis oleh jurnal Foods pada 2024 telah mengkaji berbagai meta-analisis dan tinjauan sistematis terbaru mengenai dampak konsumsi buah dan sayur terhadap kesehatan manusia. <br>
+                            <br>Konsumsi sayur, terutama sayuran berdaun hijau, sayuran buah, dan tomat mentah, terbukti dapat menurunkan risiko kanker payudara, baik untuk wanita premenopause maupun postmenopause. <br>
+                            <br>Hasil penelitian juga menemukan bahwa konsumsi buah dan sayur memiliki peran protektif signifikan terhadap tubuh. <br>
+                            <br>Khususnya dalam mencegah penyakit tidak menular (NCDs) seperti penyakit kardiovaskular, kanker, diabetes tipe 2, inflamasi usus, serta penyakit tulang dan pernapasan. <br>
+                            <br>Itulah jenis-jenis sayuran yang menyehatkan tubuh. Jangan lupa untuk senantiasa menjaga kesehatan kamu dan keluargamu dengan mengonsumsi makanan sehat seperti aneka sayuran tersebut.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/20-jenis-sayuran yang-mendukung-kesehatan-tubuh">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

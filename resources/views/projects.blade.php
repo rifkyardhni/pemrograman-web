@@ -67,7 +67,7 @@
                             <a class="nav-link p-0 active" href="projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="three-column">Artikel</a>
+                            <a class="nav-link p-0" href="artikel">Artikel</a>
                         </li>
                     </ul>
                     <div class="header-contact d-flex align-items-center">
@@ -80,10 +80,6 @@
                             </div>                            
                         </div>
                     </div>
-                </div>
-                <div class="cart-box">
-                    <a href="#"><i class="fas fa-search"></i></a>
-                    <a href="#"><img src="assets/images/cart.png" alt="cart"></a>
                 </div>
             </nav>
         </div>
@@ -120,10 +116,9 @@
                         </figure>
                     </div>
                     <div class="project-detail">
-                        <span class="d-block">Couple Problem</span>
-                        <h4>Mental Consult</h4>
-                        <p>Nostrud exercitation
-                            aute irure...</p>
+                        <span class="d-block">Frustasi</span>
+                        <h4>Konsultasi Mental</h4>
+                        <p>Atasi tekanan emosional Anda...</p>
                         <a href="services"><i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -136,22 +131,7 @@
                     <div class="project-detail">
                         <span class="d-block">Individual</span>
                         <h4>Personal Meeting</h4>
-                        <p>Gostrud exercitation
-                            aute irure...</p>
-                        <a href="services"><i class="fas fa-angle-right"></i></a>
-                    </div>
-                </div>
-                <div class="project-box" data-aos="fade-up" data-aos-duration="700">
-                    <div class="project-img">
-                        <figure class="mb-0">
-                            <img src="assets/images/project-img3.jpg" alt="project-img3">
-                        </figure>
-                    </div>
-                    <div class="project-detail">
-                        <span class="d-block">Frustation</span>
-                        <h4>Depression</h4>
-                        <p>Eostrud exercitation
-                            aute irure...</p>
+                        <p>Mendengarkan, dan memberikan solusi...</p>
                         <a href="services"><i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -163,37 +143,8 @@
                     </div>
                     <div class="project-detail">
                         <span class="d-block">Couple</span>
-                        <h4>Relationship</h4>
-                        <p>Nostrud exercitation
-                            aute irure...</p>
-                        <a href="services"><i class="fas fa-angle-right"></i></a>
-                    </div>
-                </div>
-                <div class="project-box" data-aos="fade-up" data-aos-duration="700">
-                    <div class="project-img">
-                        <figure class="mb-0">
-                            <img src="assets/images/project-img5.jpg" alt="project-img5">
-                        </figure>
-                    </div>
-                    <div class="project-detail">
-                        <span class="d-block">Individual</span>
-                        <h4>Rude Behaviour</h4>
-                        <p>Gostrud exercitation
-                            aute irure...</p>
-                        <a href="services"><i class="fas fa-angle-right"></i></a>
-                    </div>
-                </div>
-                <div class="project-box" data-aos="fade-up" data-aos-duration="700">
-                    <div class="project-img">
-                        <figure class="mb-0">
-                            <img src="assets/images/project-img6.jpg" alt="project-img6">
-                        </figure>
-                    </div>
-                    <div class="project-detail">
-                        <span class="d-block">Depressed</span>
-                        <h4>Grief & Loss</h4>
-                        <p>Eostrud exercitation
-                            aute irure...</p>
+                        <h4>Rumah Tangga</h4>
+                        <p style="text-align: justify">Setiap masalah punya solusi, ayo bicarakan!...</p>
                         <a href="services"><i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -245,8 +196,8 @@
     <section class="testimonial-main-sec project-testimonial-con w-100 float-left padding-top position-relative padding-bottom">
         <div class="container">
             <div class="generic-title text-center mb-0">
-                <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">Testimonials</span>
-                <h2 data-aos="fade-up" data-aos-duration="700">What Our Patients are Saying</h2>
+                <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">Testimoni</span>
+                <h2 data-aos="fade-up" data-aos-duration="700">Komentar Pasien Kami</h2>
             </div>
             <div class="testimonial-inner-sec" data-aos="fade-up" data-aos-duration="700">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -263,12 +214,9 @@
                                 <figure class="d-inline-block">
                                     <img src="assets/images/stars-img.png" alt="stars-img">
                                 </figure>
-                                <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                    dolores
-                                    aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                    recusandae itarue earum rerum tenetur a saiente delectus.”</p>
+                                <p>"Wah, senang banget sama pelayanannya! Cepat banget responnya, dan semua pertanyaan saya dijelasin dengan detail. Bener-bener ngebantu banget deh, makasih!"</p>
                                 <div class="customer-status">
-                                    <h5>Jonathan Andrew</h5>
+                                    <h5>Mira Sofiana</h5>
                                     <span class="d-block">Happy Customer</span>
                                 </div>
                             </div>
@@ -278,12 +226,9 @@
                                 <figure class="d-inline-block">
                                     <img src="assets/images/stars-img.png" alt="stars-img">
                                 </figure>
-                                <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                    dolores
-                                    aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                    recusandae itarue earum rerum tenetur a saiente delectus.”</p>
+                                <p>"Baru pertama kali coba konsultasi di sini, dan ternyata pelayanannya keren banget. Dokternya sabar banget dengerin keluhan saya, jadi merasa lebih tenang. Suka banget sama platform ini!"
                                 <div class="customer-status">
-                                    <h5>Alice Waters</h5>
+                                    <h5>Alice Catherine</h5>
                                     <span class="d-block">Happy Customer</span>
                                 </div>
                             </div>
@@ -293,12 +238,9 @@
                                 <figure class="d-inline-block">
                                     <img src="assets/images/stars-img.png" alt="stars-img">
                                 </figure>
-                                <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                    dolores
-                                    aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                    recusandae itarue earum rerum tenetur a saiente delectus.”</p>
+                                <p>"Navigasi websitenya enak, nggak ribet sama sekali. Saya langsung nemu informasi yang saya cari, plus artikelnya informatif banget. Bakal sering mampir ke sini, deh!"</p>
                                 <div class="customer-status">
-                                    <h5>Jamie Oliver</h5>
+                                    <h5>Alvaro Oliver</h5>
                                     <span class="d-block">Happy Customer</span>
                                 </div>
                             </div>
@@ -308,12 +250,9 @@
                                 <figure class="d-inline-block">
                                     <img src="assets/images/stars-img.png" alt="stars-img">
                                 </figure>
-                                <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                    dolores
-                                    aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                    recusandae itarue earum rerum tenetur a saiente delectus.”</p>
+                                <p>"Artikel-artikel di web ini sangat membantu, bahasanya sederhana tapi tetap lengkap. Jadi bisa lebih paham tentang kesehatan tanpa harus pergi ke klinik sana-sini."</p>
                                 <div class="customer-status">
-                                    <h5>Clare Smyth</h5>
+                                    <h5>Eko Dewanto</h5>
                                     <span class="d-block">Happy Customer</span>
                                 </div>
                             </div>
@@ -323,12 +262,9 @@
                                 <figure class="d-inline-block">
                                     <img src="assets/images/stars-img.png" alt="stars-img">
                                 </figure>
-                                <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                    dolores
-                                    aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                    recusandae itarue earum rerum tenetur a saiente delectus.”</p>
+                                <p>"Konsultasi di sini bikin saya nyaman banget. Saya ngerasa didengar, nggak dihakimi, dan solusinya juga jelas. Recommended banget buat yang butuh layanan kesehatan online!"</p>
                                 <div class="customer-status">
-                                    <h5>Hekim Rswana</h5>
+                                    <h5>Siti Subiyah</h5>
                                     <span class="d-block">Happy Customer</span>
                                 </div>
                             </div>
@@ -375,7 +311,7 @@
                         <li class="position-relative"><a href="services"><i
                                     class="fas fa-angle-right"></i>Layanan</a></li>
                         <li class="position-relative"><a href="projects"><i class="fas fa-angle-right"></i>Projects</a></li>
-                        <li class="position-relative"><a href="three-column"><i
+                        <li class="position-relative"><a href="artikel"><i
                                     class="fas fa-angle-right"></i>Artikel</a></li>
                         <li class="position-relative"><a href="faq"><i
                                     class="fas fa-angle-right"></i>FAQ</a></li>
@@ -400,8 +336,8 @@
                     <h4>Contact Info</h4>
                     <ul class="mb-0 list-unstyled">
                         <li class="position-relative"><a href="tel:+6212345678910"><i class="fas fa-phone-alt"></i>+62 123 4567 8910</a></li>
-                        <li class="position-relative"><a href="mailto:PeduliKesehatanDesa@gmail.com"><i
-                                    class="fas fa-envelope"></i>PeduliKesehatanDesa@gmail.com</a></li>
+                        <li class="position-relative"><a href="mailto:PeduliDesa@gmail.com"><i
+                                    class="fas fa-envelope"></i>PeduliDesa@gmail.com</a></li>
                         <li class="position-relative mb-0"><i class="fas fa-map-marker-alt"></i>Kabupaten Sleman,<br> Daerah Istimewa Yogyakarta, Indonesia</li>
                     </ul>
                 </div>

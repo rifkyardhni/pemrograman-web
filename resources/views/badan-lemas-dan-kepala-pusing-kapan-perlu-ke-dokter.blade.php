@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>Badan Lemas dan Kepala Pusing, Kapan Perlu ke Dokter?</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,20 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image9.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>Badan Lemas dan Kepala Pusing, Kapan Perlu ke Dokter?</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : Redaksi PeduliDesa</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Nov 07, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Pusing adalah keluhan umum yang biasanya hilang dengan sendirinya. Saat mengalami pusing, badan seringkali ikut lemas karena kurangnya keseimbangan. <br><br>
+                                Selain lemas, pusing biasanya disertai dengan gejala lain seperti mual, muntah, berkeringat, sakit kepala atau kesulitan berjalan. Badan yang lemas dan pusing ini umumnya tanda kelelahan. <br><br>
+                                Kelelahan ini seringkali diabaikan karena dianggap sebagai kondisi biasa dan akan hilang setelah istirahat. <br><br>
+                                Namun, kamu harus waspada jika kelelahan yang kamu alami terjadi terus menerus sampai mengganggu aktivitas sehari-hari. <br><br>
+                                Tanda kelelahan bisa menjadi sesuatu yang lebih serius adalah rasa sakit yang tidak dapat dijelaskan, seperti demam, pusing atau sakit kepala. <br><br>
+                                Lantas, kapan pusing dan lemas perlu diperiksakan ke dokter? Simak penjelasan berikut.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -118,66 +121,46 @@
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
-                        </div><br>
-                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>Kapan Harus Mengunjungi Dokter?</h6>
+                            Kamu perlu waspada bila kamu masih merasa lemas meskipun tidur nyenyak dan mengalami pusing berulang. Bila mengalami kondisi ini, segera periksakan diri ke dokter. <br>
+                            <br>Terlebih jika akhir-akhir ini kamu pernah mengalami trauma pada kepala atau leher, bisa jadi hal tersebut bisa menjadi sumber masalahnya. <br>
+                            <br>Selain itu, pusing dan lemas yang disertai gejala lain juga harus kamu waspadai. <br>
+                            <br>Sebab, gejala yang menyertainya bisa menjadi pertanda penyakit tertentu. <br>
+                            <br>Segera periksakan ke dokter apabila pusing yang kamu alami disertai:
+                            <ul><br><li>Sakit leher.</li><br>
+                            <li>Demam tinggi.</li><br>
+                            <li>Tubuh menggigil.</li><br>
+                            <li>Penglihatan kabur.</li><br>
+                            <li>Kesulitan berbicara atau bicara cadel.</li><br>
+                            <li>Mati rasa atau kesemutan.</li><br>
+                            <li>Hilang kesadaran.</li><br>
+                            <li>Sakit dada.</li><br>
+                            <li>Muntah terus menerus.</li></ul>
+                            Benarkah  Kepala Sering Pusing, Tanda Penyakit Berbahaya? Ketahui selengkapnya. <br>
+                            <br>Ada banyak kemungkinan penyebab kondisi yang kamu alami. Oleh karenanya, penting untuk segera memeriksakan diri supaya dokter dapat mencari akar permasalahannya.<br>
+                            <br>Selama pemeriksaan, dokter akan mengesampingkan masalah seperti efek samping obat.<br>
+                            <br>Selain itu, dokter biasanya akan merekomendasikan tes darah untuk menentukan apakah kondisi yang kamu alami disebabkan oleh masalah tertentu, seperti anemia, masalah tiroid, atau peradangan hati (hepatitis).<br><br>Bila hasil tes menunjukan hal yang normal, mungkin kamu mengalami kelelahan kronis, stres atau bahkan depresi. <br> <br>Jika mengalami pusing dan mual, salah satu pertolongan pertama yang bisa kamu lakukan adalah menggunakan obat untuk meredakan nya.
                         </div><br>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                            <h6>Pertolongan Pertama saat Pusing dan Kelelahan</h6>
+                            Meskipun sering dianggap hal sepele, pusing dan lemas dapat menghambat aktivitas kamu sehari-hari.<br>
+                            <br>Oleh sebab itu, berikut pertolongan pertama yang bisa kamu lakukan saat tubuh terasa lemas dan pusing: <ul><br><li>Berbaring.</li><br>
+                                <li>Jika diharuskan berpindah tempat, berdiri secara perlahan.</li><br>
+                                <li>Hindari perubahan posisi yang tiba-tiba.</li><br>
+                                <li>Hindari lampu yang terang.</li><br>
+                                <li>Minum banyak cairan, terutama saat cuaca panas atau telah beraktivitas berat.</li><br>
+                                <li>Sering-seringlah beristirahat.</li><br>
+                                <li>Jangan berdiri terlalu lama.</li><br>
+                                <li>Hindari lingkungan yang terlalu panas, sempit, atau pengap.</li></ul>
+                            Jangan salah, Bedakan Pusing Vertigo dan Darah Rendah supaya bisa mendapat pengobatan yang tepat. <br>
+                            <br>Pusing dan lemas yang kamu alami bisa jadi akibat kurangnya asupan vitamin yang tidak memadai. Oleh sebab itu, sebaiknya konsumsi vitamin secara rutin untuk meningkatkan daya tahan tubuh.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/badan-lemas-dan-kepala-pusing-kapan-perlu-ke-dokter">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

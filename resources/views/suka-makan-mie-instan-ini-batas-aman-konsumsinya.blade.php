@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>Suka Makan Mie Instan? Ini Batas Aman Konsumsinya</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,16 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image7.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>Suka Makan Mie Instan? Ini Batas Aman Konsumsinya</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : Redaksi PeduliDesa</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Nov 17, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Meski dianggap praktis dan mengenyangkan, kamu wajib tahu batasan aman mengonsumsi mi instan agar terhindar dari masalah kesehatan. Mi instan telah menjadi salah satu makanan favorit banyak orang di seluruh dunia, termasuk di Indonesia. Rasanya yang lezat, cara penyajiannya yang cepat, dan harganya yang terjangkau menjadikan mi instan sebagai pilihan makanan praktis. <br><br>
+                                Namun, di balik kelezatan dan kemudahannya, kamu harus bijak dalam mengonsumsinya. Sebab, mi instan cenderung minim gizi dan mengandung garam yang cukup tinggi.Buat kamu pencinta mi instan, yuk, ketahui terlebih dahulu batasan aman mengonsumsinya agar terhindar dari risiko masalah kesehatan.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -118,66 +117,98 @@
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
+                            <h6>Batas Aman Mengonsumsi Mie Instan</h6>
+                            Mi instan umumnya mengandung berbagai bahan, termasuk karbohidrat, lemak, protein, dan natrium. Selain itu, ada juga bahan tambahan seperti pengawet, pewarna, dan perasa buatan. <br>
+                            <br>Salah satu perhatian utama terkait mi instan adalah tingginya kadar natrium atau garam, yang berdampak negatif pada kesehatan jika dikonsumsi berlebihan. <br>
+                            <br>Selain itu, mi instan juga cenderung rendah serat, vitamin, dan mineral, sehingga kurang memenuhi kebutuhan gizi harian yang seimbang. <br>
+                            <br>Berdasarkan rekomendasi dari ahli gizi, sebaiknya konsumsi mi instan dibatasi, maksimal 1-2 kali per minggu saja. <br>
+                            <br>Tujuannya, untuk memastikan bahwa asupan natrium dan bahan kimia tambahan tetap dalam batas aman dan tidak menumpuk di dalam tubuh. Selain itu, penting untuk mengimbanginya dengan pola makan yang sehat dan seimbang, yang kaya akan buah-buahan, sayuran, biji-bijian, dan protein.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>Dampak Mengonsumsi Mie Instan Berlebihan</h6>
+                            Mi instan sebaiknya tidak dijadikan sebagai makanan utama, melainkan sesekali sebagai alternatif praktis. <br>
+                            <br>Sebab, mengonsumsi mi instan secara berlebihan bisa memicu dampak buruk bagi kesehatan, seperti:
                         </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>1. Risiko gangguan kardiovaskular</h6></div>
+                            <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            Kandungan sodium tinggi dalam mi instan dapat menyebabkan tekanan darah meningkat, yang berkontribusi pada risiko hipertensi dan penyakit jantung. <br>
+                            <br>Konsumsi berlebihan juga dapat meningkatkan kadar kolesterol jahat (LDL) dalam tubuh.
                         </div><br>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                            <h6>2. Peningkatan risiko metabolik</h6>
+                            Konsumsi mi instan secara rutin dikaitkan dengan gangguan metabolik seperti obesitas dan resistensi insulin. <br>
+                            <br>Selain itu, kandungan lemak jenuh dan kalori tinggi, tanpa gizi seimbang dapat memperburuk kondisi ini.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Gangguan fungsi pencernaan</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Penggunaan bahan pengawet dan kandungan MSG dalam mi instan dapat mengiritasi saluran pencernaan. <br>
+                            <br>Mi instan juga rendah serat, sehingga berpotensi menyebabkan sembelit. Ini merupakan kondisi ketika seseorang sulit untuk buang air besar.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>4. Mengganggu fungsi ginjal</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Sodium yang tinggi dalam mi instan meningkatkan beban kerja ginjal, yang dalam jangka panjang dapat merusak fungsi ginjal. <br>
+                            <br>Hal ini memperbesar risiko penyakit ginjal kronis, terutama bagi individu dengan riwayat hipertensi.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>5. Ketergantungan dan pola makan tidak sehat</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Kombinasi rasa gurih dan kandungan MSG dapat menyebabkan seseorang mengalami ketergantungan pada mi instan. <br>
+                            <br>Pola makan ini pada akhirnya dapat mengurangi asupan makanan bergizi lain, yang penting untuk kesehatan tubuh secara keseluruhan.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>Apa Kata Riset tentang Dampak Mi Instan bagi Kesehatan?</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Menurut studi berjudul Instant noodle consumption is associated with cardiometabolic risk factors among college students in Seoul yang dipublikasikan oleh The Korean Nutrition Society and the Korean Society of Community Nutrition (2017), konsumsi mi instan lebih sering dikaitkan dengan peningkatan kadar trigliserida plasma, tekanan darah diastolik, dan kadar glukosa darah puasa. <br>
+                            <br>Jika ditelaah berdasarkan perbedaan jenis kelamin, studi ini menyebut kalau perempuan berisiko lebih tinggi mengalami tekanan darah diastolik saat mengonsumsi mi instan. <br>
+                            <br>Kenaikan tekanan darah diastolik tentunya berbahaya, karena bisa menyebabkan kerusakan  pada dinding arteri, sehingga pembuluh darah arteri bisa mengalami pengerasan. Kondisi ini dapat memicu serangan jantung hingga stroke.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>Tips Sehat Makan Mie Instan</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Walaupun mi instan memiliki beberapa risiko kesehatan jika dikonsumsi berlebihan, ada cara untuk menikmatinya dengan lebih sehat. <br>
+                            <br>Berikut adalah beberapa tips untuk mengurangi dampak negatif mi instan dan membuatnya lebih bernutrisi:
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>1. Kurangi penggunaan bumbu</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Salah satu sumber utama natrium dalam mi instan adalah paket bumbu yang disertakan. Kamu bisa mengurangi jumlah bumbu yang digunakan. <br>
+                            <br>Sebagai alternatif, kamu bisa menggantinya dengan bumbu alami seperti bawang putih, bawang merah, cabai, atau rempah-rempah lainnya. <br>
+                            <br>Bukan hanya mengurangi asupan natrium tetapi cara ini juga memberikan rasa yang lebih segar dan alami.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. Tambahkan sayuran dan protein</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Untuk meningkatkan nilai gizi mi instan, tambahkan berbagai sayuran segar seperti bayam, sawi, wortel, atau brokoli. Sayuran tersebut kaya akan serat, vitamin, dan mineral yang sangat diperlukan oleh tubuh. <br>
+                            <br>Selain itu, tambahkan sumber protein seperti telur, tahu, tempe, atau daging tanpa lemak untuk menjadikan hidangan lebih seimbang.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Pilih mi instan yang lebih sehat</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Saat ini, banyak produsen mi instan yang menawarkan varian mi yang lebih sehat, seperti mi dengan kandungan serat lebih tinggi atau mi yang dibuat dari biji-bijian utuh. <br>
+                            <br>Beberapa mi instan juga rendah natrium atau menggunakan bahan-bahan organik. Memilih mi instan jenis ini bisa menjadi alternatif yang lebih baik bagi kesehatan.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>4. Hindari menggoreng ulang</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Menggoreng mi instan setelah dimasak bisa menambah jumlah kalori dan lemak jenuh yang tidak sehat. <br>
+                            <br>Sebaiknya, mi instan hanya direbus sesuai petunjuk pada kemasan untuk menghindari tambahan lemak yang tidak diperlukan.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>5. Perhatikan porsinya</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Meskipun rasanya enak dan mengenyangkan, penting untuk memperhatikan porsi saat makan mi instan. <br>
+                            <br>Usahakan untuk tidak mengonsumsi lebih dari satu porsi dalam satu waktu, dan jika memungkinkan, kombinasikan dengan makanan lain yang lebih sehat. Kandungan natrium dalam mi instan dapat menyebabkan tubuh kehilangan cairan lebih cepat. <br>
+                            <br>Oleh karena itu, pastikan untuk minum air putih yang cukup setelah makan mi instan untuk membantu tubuh tetap terhidrasi dan menjaga fungsi ginjal tetap optimal.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/suka-makan-mie-instan-ini-batas-aman-konsumsinya">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

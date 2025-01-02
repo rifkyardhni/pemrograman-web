@@ -67,7 +67,7 @@
                             <a class="nav-link p-0" href="projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="three-column">Artikel</a>
+                            <a class="nav-link p-0" href="artikel">Artikel</a>
                         </li>
                     </ul>
                     <div class="header-contact d-flex align-items-center">
@@ -80,10 +80,6 @@
                             </div> 
                         </div>
                     </div>
-                </div>
-                <div class="cart-box">
-                    <a href="#"><i class="fas fa-search"></i></a>
-                    <a href="#"><img src="assets/images/cart.png" alt="cart"></a>
                 </div>
             </nav>
         </div>
@@ -415,11 +411,11 @@
                             <div class="blog-first-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Mar 20, 2021</span>
-                                <h4><a href="three-column">Reiciendis volutaibus
+                                <h4><a href="artikel">Reiciendis volutaibus
                                         maiores alias</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -428,11 +424,11 @@
                             <div class="blog-second-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Feb 14, 2022</span>
-                                <h4><a href="three-column">Duis aute irure dolor
+                                <h4><a href="artikel">Duis aute irure dolor
                                         in reprehenderit</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -441,11 +437,11 @@
                             <div class="blog-third-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Jun 07, 2022</span>
-                                <h4><a href="three-column">Riusmod tempor incidun
+                                <h4><a href="artikel">Riusmod tempor incidun
                                         aut labore</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -454,11 +450,11 @@
                             <div class="blog-first-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Mar 20, 2021</span>
-                                <h4><a href="three-column">Reiciendis volutaibus
+                                <h4><a href="artikel">Reiciendis volutaibus
                                         maiores alias</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -467,11 +463,11 @@
                             <div class="blog-second-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Feb 14, 2022</span>
-                                <h4><a href="three-column">Duis aute irure dolor
+                                <h4><a href="artikel">Duis aute irure dolor
                                         in reprehenderit</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -480,11 +476,11 @@
                             <div class="blog-third-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Jun 07, 2022</span>
-                                <h4><a href="three-column">Riusmod tempor incidun
+                                <h4><a href="artikel">Riusmod tempor incidun
                                         aut labore</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -493,11 +489,11 @@
                             <div class="blog-first-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Mar 20, 2021</span>
-                                <h4><a href="three-column">Reiciendis volutaibus
+                                <h4><a href="artikel">Reiciendis volutaibus
                                         maiores alias</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -506,11 +502,11 @@
                             <div class="blog-second-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Feb 14, 2022</span>
-                                <h4><a href="three-column">Duis aute irure dolor
+                                <h4><a href="artikel">Duis aute irure dolor
                                         in reprehenderit</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -519,11 +515,11 @@
                             <div class="blog-third-img blog-img-box"></div>
                             <div class="blog-details">
                                 <span class="d-block"><i class="fas fa-calendar-alt"></i> Jun 07, 2022</span>
-                                <h4><a href="three-column">Riusmod tempor incidun
+                                <h4><a href="artikel">Riusmod tempor incidun
                                         aut labore</a></h4>
                                 <p>Debitis aut rerum nec sitatoe
                                     bus saerue eveniet...</p>
-                                <a href="three-column">Read More <i class="fas fa-angle-right"></i></a>
+                                <a href="artikel">Read More <i class="fas fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -560,7 +556,7 @@
                         <li class="position-relative"><a href="services"><i
                                     class="fas fa-angle-right"></i>Layanan</a></li>
                         <li class="position-relative"><a href="projects"><i class="fas fa-angle-right"></i>Projects</a></li>
-                        <li class="position-relative"><a href="three-column"><i
+                        <li class="position-relative"><a href="artikel"><i
                                     class="fas fa-angle-right"></i>Artikel</a></li>
                         <li class="position-relative"><a href="faq"><i
                                     class="fas fa-angle-right"></i>FAQ</a></li>

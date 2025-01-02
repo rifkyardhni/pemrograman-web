@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>10 Obat Diare Ampuh</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,16 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image6.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>10 Obat Diare Ampuh</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : dr. Meva Nareza T</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Nov 25, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Obat diare efektif menghentikan mencret yang sudah terjadi berkali-kali dan meredakan berbagai keluhan yang menyertainya. Obat ini dapat membuat buang air besar tidak encer lagi sehingga Anda bisa beraktivitas kembali dengan nyaman. <br>
+                            <br>Diare paling sering disebabkan oleh kuman yang terdapat dalam makanan maupun minuman tidak higienis. Diare juga bisa terjadi akibat keracunan makanan, alergi makanan, atau intoleransi laktosa. Penderita diare akan buang air besar (BAB) cair berulang kali sehingga harus bolak-balik ke kamar mandi.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -118,66 +117,84 @@
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
+                            <h6>Beragam Obat Diare yang Ampuh di Apotek</h6>
+                            Obat diare ada yang dijual bebas dan ada pula yang hanya bisa diperoleh dengan resep dokter. Obat diare bisa ditemukan dalam sediaan minum, seperti kapsul, tablet, suspensi, atau sirop. <br>
+                            <br>Berikut adalah pilihan obat diare yang ampuh untuk menghentikan mencret dan gejala lainnya:
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>1. Imodium</h6>
+                            Imodium mengandung loperamide yang bekerja dengan cara memperlambat gerakan usus. Cara kerja ini mengurangi rasa mulas, serta rasa ingin BAB yang muncul berkali-kali dan tidak bisa ditahan. Obat ini juga dapat memaksimalkan penyerapan air di dalam usus sehingga tinja menjadi lebih padat.<br>
+                            <br>Imodium tersedia dalam bentuk tablet. Obat diare ini bisa diminum oleh orang dewasa dan anak usia 6 tahun ke atas. Ibu hamil atau ibu menyusui yang sedang mencret juga bisa minum Imodium, tetapi harus dengan arahan dan pengawasan dokter. <br>
+                            <br>Imodium dikonsumsi setiap kali selesai diare atau menurut petunjuk dokter. Imodium bukan obat bebas. Diperlukan konsultasi dengan dokter sebelum membeli obat diare ini.                          
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. Norit</h6>
+                            Norit merupakan obat diare yang mengandung arang aktif. Bahan alami ini dapat menyedot dan membuang racun penyebab diare, serta mengurangi gas berlebih di saluran cerna. Dengan begitu, frekuensi mencret dan kembung saat diare bisa berkurang. <br>
+                            <br>Norit tersedia dalam bentuk tablet untuk dewasa, termasuk ibu hamil atau menyusui. Dosis Norit untuk mengatasi diare adalah 5–7 tablet sekali minum, 3–4 kali sehari. Dosis maksimalnya adalah 20 tablet sehari. <br>
+                            <br>Norit tergolong sebagai obat bebas sehingga tidak perlu resep dokter saat membelinya.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Diapet</h6>
+                            Diapet merupakan obat diare alami dengan beragam kandungan, seperti ekstrak daun jambu biji, kunyit, kulit buah delima, dan buah mojokeling. Perpaduan bahan tersebut diyakini mampu mengurangi frekuensi mencret dan mulas saat diare. <br>
+                            <br>Diapet memiliki sediaan kapsul yang dijual bebas untuk orang dewasa. Sebagai obat diare, Diapet diminum 2 kapsul. Setelah 1 jam, minum lagi 2 kapsul. Perlu diingat, penggunaan obat ini harus diikuti dengan konsumsi pengganti cairan dan elektrolit, seperti oralit.
                         </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>4. Diapet NR</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Diapet NR memiliki kandungan yang mirip dengan Diapet, tetapi ditambah karbon aktif dan attapulgite. Dua bahan tambahan ini berkhasiat menyerap racun dan kuman penyebab diare, lalu membuangnya bersama tinja saat BAB. Bahan tersebut juga bisa membuat tinja lebih padat sehingga mencret pun berkurang. <br>
+                            <br>Diapet NR merupakan obat bebas yang dijual dalam sediaan kapsul untuk dewasa. Cara minum obat diare ini sama dengan Diapet, yaitu 2 kapsul, kemudian selang 1 jam diminum lagi 2 kapsul.
                         </div><br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>5. Neo Entrostop</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Neo Entrostop bagus untuk menghentikan diare karena mengandung attapulgite dan pektin. Kombinasi kedua bahan ini dapat menyerap racun dan bakteri yang memicu diare, serta memadatkan tinja sehingga diare dapat mereda. <br>
+                            <br>Neo Entrostop hadir dalam sediaan tablet yang bisa dibeli tanpa resep dokter. Obat diare ini ditujukan untuk orang dewasa dan anak usia 6 tahun atau lebih. Neo Entrostop juga boleh digunakan sebagai obat mencret selama hamil atau menyusui. <br>
+                            <br>Sebagai obat diare, Neo Enterostop dikonsumsi 2 tablet tiap buang air besar cair, maksimal 12 tablet per hari. Untuk anak usia 6 sampai 12 tahun, cukup minum 1 tablet Neo Enterostop tiap kali mencret, maksimal 6 tablet per hari.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>6. New Diatabs</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                New Diatabs berisi attapulgite yang ampuh untuk mengatasi diare. Bahan alami di dalam obat diare ini berfungsi untuk mengikat kuman atau racun pemicu diare, lalu mengeluarkannya bersama feses. Attapulgite juga berkhasiat memadatkan tinja sehingga buang air besar tidak cair lagi. <br>
+                            <br>New Diatabs dijual bebas dalam sediaan tablet yang bisa diminum oleh anak usia 6 tahun ke atas hingga dewasa. Ibu hamil atau menyusui juga boleh minum obat ini saat diare. <br>
+                            <br>New Diatabs diminum 2 tablet setiap selesai mencret dengan dosis maksimal 12 tablet per hari. Untuk anak usia 6 sampai 12 tahun, obat diare ini diminum 1 tablet setiap selesai BAB, dengan dosis maksimal 6 tablet per hari.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>7. Pharolit</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Pharolit adalah larutan gula dan garam untuk mencegah dan mengobati dehidrasi akibat diare. Cairan oralit ini dibuat dari campuran air, elektrolit natrium klorida, kalium klorida, trisodium sitrat dihidrat, dan gula jagung (glukosa anhidrat). <br>
+                            <br>Kandungan elektrolit dalam oralit bermanfaat untuk menggantikan cairan dan elektrolit tubuh yang hilang karena diare, serta menambah energi. Dengan begitu, diare tidak menyebabkan dehidrasi yang bisa membuat lemas dan sulit beraktivitas. <br>
+                            <br>Pharolit bisa diminum sebagai obat diare untuk segala usia, mulai dari bayi hingga dewasa. Oralit ini juga bagus digunakan sebagai obat mencret selama hamil atau menyusui. <br>
+                            <br>Larutkan sebungkus Pharolit dalam 200 ml air putih matang sebelum diminum. Obat diare ini bisa dikonsumsi tiap kali mencret. Untuk membeli Pharolit, Anda tidak perlu resep dokter.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>8. Guanistrep</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Guanistrep mengandung dua bahan yang efektif mengatasi diare, yaitu kaolin dan pektin. Kombinasi bahan ini akan menyerap racun dan bakteri penyebab diare, kemudian membuangnya bersama tinja saat BAB. Kaolin dan pektin juga dapat memadatkan tinja yang cair dan mengurangi frekuensi buang air besar. <br>
+                            <br>Guanistrep bisa digunakan sebagai obat diare untuk anak dan dewasa, termasuk ibu hamil atau menyusui. Obat mencret ini tersedia dalam bentuk suspensi atau sirop. <br>
+                            <br>Dosis Guanistrep untuk dewasa dan anak usia di atas 12 tahun adalah 2 sendok takar (10 ml) tiap selesai BAB, maksimal 60 ml dalam sehari. Untuk mengobati diare pada anak usia 6–12 tahun, berikanlah 1–2 sendok takar (5–10 ml), maksimal 30 ml sehari. <br>
+                            <br>Sementara itu, dosis Guanistrep untuk usia 3 sampai 6 tahun adalah 1–2 sendok takar (5–10 ml), maksimal 15 ml per hari. Pada anak usia kurang dari 3 tahun, dosis obat diare ini perlu dikonsultasikan dengan dokter terlebih dahulu.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>9. Interlac</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Interlac mengandung bakteri baik Limosilactobacillus reuteri. Probiotik ini baik untuk menjaga fungsi sistem pencernaan, membantu mengatasi diare, dan mempercepat pemulihan saluran pencernaan setelah diare. <br>
+                            <br>Interlac dijual bebas dalam sediaan tablet kunyah untuk orang dewasa, termasuk yang sedang hamil atau menyusui. Sebagai obat diare, Interlac bisa dikonsumsi 1–2 kali sehari. Kunyah tablet Interlac sampai lumat sebelum ditelan.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>10. Lacto B</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Lacto B adalah suplemen probiotik yang bisa membantu mengatasi diare. Kandungan bakteri baik Lactobacillus acidophilus, Bifidobacterium longum, dan Streptococcus thermophillus dalam Lacto B mampu menekan pertumbuhan bakteri jahat pemicu diare. <br>
+                            <br>Suplemen probiotik, seperti Lacto B juga dapat meringankan gejala diare akibat konsumsi obat-obatan tertentu, seperti antibiotik. Lacto B juga dapat menyehatkan saluran pencernaan setelah diare selesai sehingga mengurangi risiko diare kambuh lagi. <br>
+                            <br>Lacto B tersedia dalam bentuk bubuk yang bisa dikonsumsi mulai usia 1 tahun atau lebih. Dosis Lacto B untuk mengatasi diare adalah 3 saset per hari. Penyajiannya mudah, cukup campurkan Lacto B ke dalam susu, es krim, atau yoghurt, kemudian segera minum sampai habis.<br>
+                            <br>Selain mengonsumsi obat diare, Anda perlu memperbanyak minum air putih, oralit, atau sup encer untuk mencegah dehidrasi. Sebaiknya Anda juga menghindari konsumsi makanan yang pedas, bersantan, dan tinggi serat, serta minuman yang mengandung soda atau kafein sampai diare benar-benar sembuh. <br>
+                            <br>Periksakan diri ke dokter jika diare memburuk, disertai muntah-muntah, sakit perut parah, tinja berdarah atau berlendir, maupun demam tinggi. Segera cari pertolongan medis bila mencret tidak mereda meski telah 2 hari minum obat diare atau setelah mengonsumsi obat diare dengan dosis maksimal.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/10-obat-diare-ampuh">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>Cara Menghilangkan Overthinking untuk Kesehatan Mental</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,17 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image5.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>Cara Menghilangkan Overthinking untuk Kesehatan Mental</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : Redaksi PeduliDesa</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Nov 29, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Berpikir adalah hal yang esensial bagi manusia. Namun, berpikir berlebihan atau overthinking justru dapat berdampak negatif pada kesehatan mental. Oleh karena itu, kamu perlu tahu cara menghilangkan overthinking sebelum terlambat. <br><br>
+                                Overthinking adalah kebiasaan tidak sehat yang biasanya menyebabkan lebih banyak stres dengan berfokus pada hal negatif, memikirkan masa lalu dan mengkhawatirkan masa depan. <br><br>
+                                Alih-alih memecahkan masalah, kamu hanya akan merenungkan suatu masalah tanpa menemukan solusi logis.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -117,67 +117,67 @@
                             </figure>
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>Cara Menghilangkan Overthinking</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            Berpikir tentang masalah secara mendalam sebenarnya bisa menjadi langkah awal yang sangat penting untuk menemukan solusi yang lebih efektif dan tepat sasaran. Dengan memahami inti permasalahan, kita dapat menganalisis setiap aspek dari situasi tersebut dan mencari cara yang lebih kreatif untuk menyelesaikannya. <br>
+                            <br>Berikut ini adalah beberapa cara menghilangkan overthinking yang bisa kamu coba:
+                        </div><br>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
+                            <h6>1. Alihkan Perhatian</h6>
+                            Daripada terus-menerus memikirkan masalah yang belum tentu terjadi, cobalah untuk mengalihkan perhatianmu ke hal lain. Melakukan aktivitas fisik seperti olahraga, berjalan santai, atau bahkan membersihkan rumah dapat membantu. <br>
+                            <br>Distraksi atau mengalihkan perhatian sebentar dapat memberi kamu istirahat. Ini juga mungkin membuat pikiran kamu terfokus pada sesuatu hal yang lebih produktif. <br>
+                            <br>Dengan mengalihkan perhatian, otakmu diberi waktu untuk istirahat dan mungkin menemukan solusi secara alami di latar belakang pikiranmu.                          
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. Tantang Pikiran Negatif</h6>
+                            Ingatkan diri kamu bahwa yang ada di dalam pikiran kamu bukanlah kenyataan. Setiap pikiran yang kamu miliki tidak akan selalu benar, akurat, atau bahkan realistis. <br>
+                            <br>Mempelajari cara membingkai ulang pikiran dengan cara yang lebih positif dapat membantu menghilangkan overthinking. <br>
+                            <br>Ketika kamu mendapati diri kamu terlalu banyak berpikir, tantang pikiran-pikiran ini. Tanyakan pada diri kamu apakah ini realistis. <br>
+                            <br>Pertimbangkan skenario alternatif. Mungkin sulit pada awalnya, tetapi belajar untuk mengeluarkan pemikiran berlebihan dapat membantu kamu belajar mengganti pikiran negatif dengan yang lebih bermanfaat.
                         </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>3. Latih Keterampilan Interpersonal</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            Meningkatkan keterampilan interpersonal juga bisa menjadi cara menghilangkan kebiasaan overthinking yang kamu miliki. Ketika kamu mampu berkomunikasi dan menjalin hubungan dengan orang lain dengan lebih baik, kamu cenderung lebih percaya diri dalam menghadapi berbagai situasi.<br>
+                            <br>Berikut ini adalah contoh untuk mengembangkan keterampilan interpersonal yang lebih kuat: 
+                            <ul><li>Meningkatkan kesadaran diri. Cobalah untuk memahami emosi dan respons dirimu terhadap berbagai situasi.</li>
+                            <li>Meningkatkan rasa percaya diri. Latih dirimu untuk lebih yakin dalam berpendapat dan mengambil keputusan.</li>
+                            <li>Mengasah kemampuan mendengarkan secara aktif. Berikan perhatian penuh saat orang lain berbicara, dan tunjukkan empati.</li>
+                            <li>Meningkatkan kemampuan bernegosiasi dan menyelesaikan konflik. Dengan belajar menghadapi masalah secara konstruktif, kamu bisa mengurangi kekhawatiran berlebihan.</li></ul>
+                                Dengan keterampilan interpersonal yang baik, kamu bisa lebih fokus pada solusi daripada terjebak dalam pemikiran yang berlebihan.
                         </div><br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>4. Meditasi</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Meditasi dapat menjadi alat yang sangat baik untuk mengarahkan pikiran kamu ke hal yang lebih positif. Tujuannya bukan untuk menjernihkan pikiran, melainkan untuk memfokuskannya pada sesuatu dan berlatih mengarahkan kembali fokus kamu setiap kali pikiran mengembara. <br>
+                            <br>Dengan latihan, kamu akan merasa jauh lebih mudah untuk berhenti berpikir berlebihan sebelum menjadi masalah yang lebih serius. Cobalah lakukan meditasi 10 menit untuk menghentikan pikiran dan kekhawatiran yang mengganggu.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>5. Latih Penerimaan Diri</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Overthinking sering kali berasal dari memikirkan kesalahan masa lalu atau mengkhawatirkan hal-hal yang tidak dapat kamu ubah. <br>
+                            <br>Alih-alih membenci diri sendiri untuk hal-hal yang mungkin kamu sesali, cobalah untuk lebih menerima dan berbelas kasih pada diri sendiri. <br>
+                            <br>Berikut ini strategi yang dapat membantu kamu menjadi lebih menerima diri sendiri: 
+                            <ul><li>Mempraktikkan rasa syukur dan memikirkan aspek-aspek diri yang kamu hargai.</li>
+                            <li>Menumbuhkan sistem pendukung yang kuat yang terdiri dari orang-orang yang dapat memberi kamu dorongan dan cinta.</li>
+                            <li>Memaafkan diri kamu sendiri dan mengikhlaskan semua hal-hal yang kamu sesali.</li></ul>
+                        </div>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>6. Lakukan Terapi</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Jika berbagai cara menghilangkan overthinking telah kamu coba dan tidak membuahkan hasil, mungkin saatnya untuk mendapatkan bantuan profesional. <br>
+                            <br>Sebab, overthinking mungkin merupakan gejala dari masalah kesehatan mental, seperti depresi atau gangguan kecemasan. <br>
+                            <br>Di sisi lain, overthinking yang dibiarkan berlarut-larut dapat meningkatkan risiko berbagai masalah serius, termasuk penurunan kualitas hidup, hubungan yang terganggu, atau bahkan keinginan untuk mengakhiri hidup. Oleh karena itu, mencari bantuan profesional bukanlah tanda kelemahan, melainkan langkah penting untuk menjaga kesehatan mentalmu.<br>
+                            <br>Seorang profesional kesehatan mental dapat mengajari keterampilan yang akan membantu kamu berhenti terobsesi, merenungkan, dan memikirkan hal-hal yang tidak membantu. <br>
+                            <br>Overthinking adalah kebiasaan yang bisa diubah dengan latihan dan kesadaran. Dengan menerapkan langkah-langkah di atas, kamu bisa melatih dirimu untuk lebih fokus pada hal-hal yang benar-benar penting dan membangun kehidupan yang lebih tenang dan bahagia.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/cara-menghilangkan-overthinking-untuk-kesehatan-mental">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

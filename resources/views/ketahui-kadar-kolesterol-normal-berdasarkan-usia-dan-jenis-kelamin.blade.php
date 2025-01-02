@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>Ketahui Kadar Kolesterol Normal Berdasarkan Usia dan Jenis Kelamin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,16 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image8.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>Ketahui Kadar Kolesterol Normal Berdasarkan Usia dan Jenis Kelamin</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : Redaksi PeduliDesa</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Nov 14, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Terlalu banyak kolesterol dalam darah dapat menyebabkan penumpukan lemak di dinding arteri. Hal ini dapat menyebabkan serangan jantung atau stroke. <br><br>
+                                Itulah sebabnya mengapa perlu melakukan pemeriksaan kolesterol, tujuannya untuk mengetahui kadar  kolesterol dalam tubuh. Kadar kolesterol masing-masing orang bisa berbeda, tergantung usia dan jenis kelaminnya.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -118,66 +117,87 @@
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
+                            <h6>Apa Itu Kolesterol?</h6>
+                            Kolesterol adalah zat lemak yang ditemukan dalam tubuh dan beberapa jenis makanan. <br>
+                            <br>Tubuh sebenarnya membutuhkan kolesterol untuk menjalankan fungsi penting, seperti membangun dinding sel dan memproduksi hormon. <br>
+                            <br>Namun, kolesterol harus berada dalam kadar yang seimbang. Terlalu banyak kolesterol, terutama jenis yang disebut kolesterol LDL (low-density lipoprotein) atau “kolesterol jahat,” dapat menyebabkan penumpukan plak di pembuluh darah dan meningkatkan risiko penyakit jantung dan stroke. <br>
+                            <br>Sebaliknya, ada juga kolesterol HDL (high-density lipoprotein) atau “kolesterol baik,” yang membantu membawa kolesterol jahat dari pembuluh darah kembali ke hati untuk diproses dan dibuang.
                         </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>Ini Kadar Kolesterol Normal Berdasarkan Jenisnya</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            Kolesterol memiliki fungsi penting bagi tubuh, di antaranya yaitu membentuk sel dan memproduksi hormon. <br>
+                            <br>Namun, kadar kolesterol yang terlalu tinggi dapat meningkatkan risiko penyakit jantung dan stroke. <br>
+                            <br>Kolesterol terbagi menjadi beberapa jenis, yaitu LDL (kolesterol jahat), HDL (kolesterol baik), dan total kolesterol.
                         </div><br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>1. LDL (Low-Density Lipoprotein)</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Disebut kolesterol jahat karena jika kadarnya terlalu tinggi, dapat menumpuk di dinding arteri dan menyebabkan penyumbatan, yang meningkatkan risiko penyakit jantung. <br>
+                            <br>Kadar LDL yang disarankan sebaiknya kurang dari 100 mg/dL.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. HDL (High-Density Lipoprotein)</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                HDL merupakan jenis kolesterol yang membantu membersihkan kolesterol jahat dari darah dan mencegah penumpukan di arteri. <br>
+                            <br>Kadar HDL yang baik sebaiknya lebih dari 40 mg/dL untuk pria dan 50 mg/dL untuk wanita.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Total Kolesterol</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Ini adalah jumlah keseluruhan kolesterol dalam darah, yang meliputi LDL, HDL, dan jenis kolesterol lainnya. <br>
+                            <br>Kadar total kolesterol yang sehat sebaiknya berada di bawah 200 mg/dL untuk orang dewasa dan di bawah 170 mg/dL untuk anak-anak. <br>
+                            <br>Menjaga kadar kolesterol tetap dalam batas normal sangat penting untuk kesehatan jantung dan pembuluh darah, yang dapat dicapai melalui pola makan sehat, olahraga, dan pengobatan rutin jika diperlukan.
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>Kenali Tingkat Kadar Kolesterol Normal</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Nah, seperti yang sudah disebutkan sebelumnya, kisaran kolesterol HDL (High Density Lipoprotein)  dan LDL (Low Density Lipoprotein) normal bervariasi berdasarkan usia. Kolesterol HDL adalah kolesterol “baik” yang biasanya dibutuhkan lebih banyak. <br>
+                            <br>Sedangkan kolesterol LDL adalah kolesterol “jahat” yang diharapkan untuk tidak berada pada kadar yang tinggi. <br>
+                            <br>Bagi sebagian besar orang dewasa sehat berusia 19 tahun ke atas, LDL harus kurang dari 100 miligram per desiliter (mg/dL), dan HDL harus lebih besar dari 40 mg/dL. <br>
+                            <br>Untuk remaja dan anak-anak berusia 19 tahun ke bawah, LDL harus kurang dari 110 mg/dL, sedangkan HDL harus lebih besar dari 45 mg/dL. <br>
+                            <br>Meski begitu, terdapat rentang LDL dan HDL ideal yang berbeda berdasarkan usia dan jenis kelamin. Seperti apa kadar normalnya?
+                        </div><br>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>1. Laki-laki < 19 tahun</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            <ul><li>Total kolesterol: < 170 mg/dL.</li>
+                            <li>LDL: < 110 mg/dL.</li>
+                            <li>HDL: > 45 mg/dL.</li></ul>
+                        </div>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. Laki-laki > 20 tahun</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            <ul><li>Total kolesterol: 125-200 mg/dL.</li>
+                            <li>LDL: > 100 mg/dL.</li>
+                            <li>HDL: > 40 mg/dL.</li></ul>
+                        </div>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Perempuan < 19 tahun</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            <ul><li>Total kolesterol: 170 mg/dL.</li>
+                            <li>LDL: < 110 mg/dL.</li>
+                            <li>HDL: < 45 mg/dL.</li></ul>
+                        </div>
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>4. Perempuan > 20 tahun</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            <ul><li>Total kolesterol: 125-200 mg/dL.</li>
+                            <li>LDL: < 100 mg/dL.</li>
+                            <li>HDL: < 50 mg/dL.</li></ul>
+                            Seseorang yang memiliki kolesterol tinggi biasanya tidak memiliki gejala. Inilah sebabnya mengapa penting untuk memeriksakan kadar kolesterol secara rutin. <br>
+                            <br>Jika memang memiliki gejala, gejala tersebut sering kali dikaitkan dengan kondisi lain. Contohnya seperti tekanan darah tinggi yang dapat menyebabkan kelelahan, nyeri dada, dan detak jantung tidak teratur. <br>
+                            <br>Centers for Disease Control and Prevention – Amerika Serikat menganjurkan orang dewasa untuk memeriksakan kolesterol setiap empat hingga enam tahun sekali. Faktor risiko juga menentukan seberapa sering kolesterol harus diperiksa. <br>
+                            <br>Orang dewasa yang memiliki riwayat kolesterol tinggi, penyakit jantung, diabetes, atau obesitas memerlukan pemeriksaan yang lebih sering. <br>
+                            <br>Sedangkan lansia mungkin perlu diperiksa setiap tahun selama pemeriksaan fisik rutin. <br>
+                            <br>Anak-anak harus memeriksakan kolesterolnya setidaknya sekali antara usia 9 dan 11 tahun dan sekali lagi antara usia 17 dan 20 tahun.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/ketahui-kadar-kolesterol-normal-berdasarkan-usia-dan-jenis-kelamin">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

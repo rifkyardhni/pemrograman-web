@@ -72,7 +72,7 @@
                             <a class="nav-link p-0" href="projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0 active" href="three-column">Artikel</a>
+                            <a class="nav-link p-0 active" href="artikel">Artikel</a>
                         </li>
                     </ul>
                     <div class="header-contact d-flex align-items-center">
@@ -121,22 +121,20 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                             <div class="blog-box blog-box1">
                                 <figure class="blog-image mb-0">
-                                    <img src="./assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                    <img src="./assets/images/singleblog-image3.jpg" alt="" class="img-fluid">
                                 </figure>
                                 <div class="lower-portion">
                                     <i class="fa-solid fa-user"></i>
                                     <span class="text-size-14 text-mr">By : Admin</span>
-                                    <i class="tag-mb fa-solid fa-tag"></i>
-                                    <span class="text-size-14">Virtual Assistant</span>
-                                    <h5>Why You Need Virtual Assistant for Your Company</h5>
+                                    <h5>5 Manfaat Merayakan Liburan Bersama Keluarga</h5>
                                 </div>
                                 <div class="button-portion ">
                                     <div class="date">
                                         <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
-                                        <span class="mb-0 text-size-14">Dec 20,2022</span>
+                                        <span class="mb-0 text-size-14">Dec 26, 2024</span>
                                     </div>
                                     <div class="button">
-                                        <a class="mb-0 read_more text-decoration-none" href="./single-blog">Read
+                                        <a class="mb-0 read_more text-decoration-none" href="./5-manfaat-merayakan-liburan-bersama-keluarga">Read
                                             More</a>
                                     </div>
                                 </div>
@@ -145,22 +143,20 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                             <div class="blog-box blog-box2">
                                 <figure class="blog-image mb-0">
-                                    <img src="./assets/images/blog-image2.jpg" alt="" class="img-fluid">
+                                    <img src="./assets/images/singleblog-image2.jpg" alt="" class="img-fluid">
                                 </figure>
                                 <div class="lower-portion">
                                     <i class="fa-solid fa-user"></i>
                                     <span class="text-size-14 text-mr">By : Admin</span>
-                                    <i class="tag-mb fa-solid fa-tag"></i>
-                                    <span class="text-size-14">Virtual Assistant</span>
-                                    <h5>Why You Need Virtual Assistant for Your Company</h5>
+                                    <h5>Natal Sudah Tiba, Hindari Makanan Tidak Sehat Ini</h5>
                                 </div>
                                 <div class="button-portion">
                                     <div class="date">
                                         <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
-                                        <span class="mb-0 text-size-14">Dec 20,2022</span>
+                                        <span class="mb-0 text-size-14">Dec 24, 2024</span>
                                     </div>
                                     <div class="button">
-                                        <a class="mb-0 read_more text-decoration-none" href="./single-blog">Read
+                                        <a class="mb-0 read_more text-decoration-none" href="./natal-sudah-tiba-hindari-makanan-tidak-sehat-ini">Read
                                             More</a>
                                     </div>
                                 </div>
@@ -169,22 +165,20 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                             <div class="blog-box">
                                 <figure class="blog-image mb-0">
-                                    <img src="./assets/images/blog-image3.jpg" alt="" class="img-fluid">
+                                    <img src="./assets/images/singleblog-image4.jpg" alt="" class="img-fluid">
                                 </figure>
                                 <div class="lower-portion">
                                     <i class="fa-solid fa-user"></i>
                                     <span class="text-size-14 text-mr">By : Admin</span>
-                                    <i class="tag-mb fa-solid fa-tag"></i>
-                                    <span class="text-size-14">Virtual Assistant</span>
-                                    <h5>Why You Need Virtual Assistant for Your Company</h5>
+                                    <h5>20 Jenis Sayuran yang Mendukung Kesehatan Tubuh</h5>
                                 </div>
                                 <div class="button-portion">
                                     <div class="date">
                                         <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
-                                        <span class="mb-0 text-size-14">Dec 20,2022</span>
+                                        <span class="mb-0 text-size-14">Dec 19, 2024</span>
                                     </div>
                                     <div class="button">
-                                        <a class="mb-0 read_more text-decoration-none" href="./single-blog">Read
+                                        <a class="mb-0 read_more text-decoration-none" href="./20-jenis-sayuran yang-mendukung-kesehatan-tubuh">Read
                                             More</a>
                                     </div>
                                 </div>
@@ -192,90 +186,132 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                             <div class="blog-box">
-                                <div class="post-item-wrap position-relative">
-                                    <div class="post-audio position-relative">
-                                        <a href="#"><img src="./assets/images/blog-image4.jpg" alt=""
-                                                class="img-fluid"></a>
-                                        <audio class="position-absolute" controls="">
-                                            <source src="horse.ogg" type="audio/ogg">
-                                            <source src="assets/audio/horse.mp3" type="audio/mpeg">
-                                        </audio>
+                                <figure class="blog-image mb-0">
+                                    <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                                </figure>
+                                <div class="lower-portion">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span class="text-size-14 text-mr">By : Admin</span>
+                                    <h5>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h5>
+                                </div>
+                                <div class="button-portion">
+                                    <div class="date">
+                                        <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
+                                        <span class="mb-0 text-size-14">Dec 16, 2024</span>
                                     </div>
-                                    <div class="lower-portion">
-                                        <i class="fa-solid fa-user"></i>
-                                        <span class="text-size-14 text-mr">By : Admin</span>
-                                        <i class="tag-mb fa-solid fa-tag"></i>
-                                        <span class="text-size-14">Virtual Assistant</span>
-                                        <h5>Why You Need Virtual Assistant for Your Company</h5>
-                                    </div>
-                                    <div class="button-portion">
-                                        <div class="date">
-                                            <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
-                                            <span class="mb-0 text-size-14">Dec 20,2022</span>
-                                        </div>
-                                        <div class="button">
-                                            <a class="mb-0 read_more text-decoration-none"
-                                                href="./single-blog">Read More</a>
-                                        </div>
+                                    <div class="button">
+                                        <a class="mb-0 read_more text-decoration-none" href="./ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">Read
+                                            More</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                             <div class="blog-box">
-                                <div class="post-item-wrap position-relative">
-                                    <div class="post-video">
-                                        <div class="embed-container"><iframe
-                                                src="https://player.vimeo.com/video/157467640?background=1"></iframe>
-                                        </div>
+                                <figure class="blog-image mb-0">
+                                    <img src="./assets/images/singleblog-image5.jpg" alt="" class="img-fluid">
+                                </figure>
+                                <div class="lower-portion">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span class="text-size-14 text-mr">By : Admin</span>
+                                    <h5>Cara Menghilangkan Overthinking untuk Kesehatan Mental</h5>
+                                </div>
+                                <div class="button-portion">
+                                    <div class="date">
+                                        <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
+                                        <span class="mb-0 text-size-14">Nov 29, 2024</span>
                                     </div>
-                                    <div class="lower-portion">
-                                        <i class="fa-solid fa-user"></i>
-                                        <span class="text-size-14 text-mr">By : Admin</span>
-                                        <i class="tag-mb fa-solid fa-tag"></i>
-                                        <span class="text-size-14">Virtual Assistant</span>
-                                        <h5>Why You Need Virtual Assistant for Your Company</h5>
-                                    </div>
-                                    <div class="button-portion">
-                                        <div class="date">
-                                            <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
-                                            <span class="mb-0 text-size-14">Dec 20,2022</span>
-                                        </div>
-                                        <div class="button">
-                                            <a class="mb-0 read_more text-decoration-none"
-                                                href="./single-blog">Read More</a>
-                                        </div>
+                                    <div class="button">
+                                        <a class="mb-0 read_more text-decoration-none" href="./cara-menghilangkan-overthinking-untuk-kesehatan-mental">Read
+                                            More</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
-                            <div class="blog-box blogpost-box">
-                                <div class="post-item-wrap position-relative">
-                                    <div class="post-video">
-                                        <div class="fluid-width-video-wrapper">
-                                            <iframe width="560" height="376"
-                                                src="https://www.youtube.com/embed/dA8Smj5tZOQ"></iframe>
-                                        </div>
+                            <div class="blog-box">
+                                <figure class="blog-image mb-0">
+                                    <img src="./assets/images/singleblog-image6.jpg" alt="" class="img-fluid">
+                                </figure>
+                                <div class="lower-portion">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span class="text-size-14 text-mr">By : Admin</span>
+                                    <h5>10 Obat Diare Ampuh</h5>
+                                </div>
+                                <div class="button-portion">
+                                    <div class="date">
+                                        <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
+                                        <span class="mb-0 text-size-14">Nov 25, 2024</span>
                                     </div>
-                                    <div class="infinite-blog float-left">
-                                        <div class="lower-portion">
-                                            <i class="fa-solid fa-user"></i>
-                                            <span class="text-size-14 text-mr">By : Admin</span>
-                                            <i class="tag-mb fa-solid fa-tag"></i>
-                                            <span class="text-size-14">Virtual Assistant</span>
-                                            <h5>Why You Need Virtual Assistant for Your Company</h5>
-                                        </div>
-                                        <div class="button-portion">
-                                            <div class="date">
-                                                <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
-                                                <span class="mb-0 text-size-14">Dec 20,2022</span>
-                                            </div>
-                                            <div class="button">
-                                                <a class="mb-0 read_more text-decoration-none"
-                                                    href="./single-blog">Read More</a>
-                                            </div>
-                                        </div>
+                                    <div class="button">
+                                        <a class="mb-0 read_more text-decoration-none" href="./10-obat-diare-ampuh">Read
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
+                            <div class="blog-box blog-box1">
+                                <figure class="blog-image mb-0">
+                                    <img src="./assets/images/blog-slider-img7.jpg" alt="" class="img-fluid">
+                                </figure>
+                                <div class="lower-portion">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span class="text-size-14 text-mr">By : Admin</span>
+                                    <h5>Suka Makan Mie Instan? Ini Batas Aman Konsumsinya</h5>
+                                </div>
+                                <div class="button-portion ">
+                                    <div class="date">
+                                        <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
+                                        <span class="mb-0 text-size-14">Nov 17, 2024</span>
+                                    </div>
+                                    <div class="button">
+                                        <a class="mb-0 read_more text-decoration-none" href="./suka-makan-mie-instan-ini-batas-aman-konsumsinya">Read
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
+                            <div class="blog-box blog-box1">
+                                <figure class="blog-image mb-0">
+                                    <img src="./assets/images/blog-slider-img8.jpg" alt="" class="img-fluid">
+                                </figure>
+                                <div class="lower-portion">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span class="text-size-14 text-mr">By : Admin</span>
+                                    <h5>Ketahui Kadar Kolesterol Normal Berdasarkan Usia dan Jenis Kelamin</h5>
+                                </div>
+                                <div class="button-portion ">
+                                    <div class="date">
+                                        <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
+                                        <span class="mb-0 text-size-14">Nov 14, 2024</span>
+                                    </div>
+                                    <div class="button">
+                                        <a class="mb-0 read_more text-decoration-none" href="./ketahui-kadar-kolesterol-normal-berdasarkan-usia-dan-jenis-kelamin">Read
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
+                            <div class="blog-box blog-box1">
+                                <figure class="blog-image mb-0">
+                                    <img src="./assets/images/blog-slider-img9.jpg" alt="" class="img-fluid">
+                                </figure>
+                                <div class="lower-portion">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span class="text-size-14 text-mr">By : Admin</span>
+                                    <h5>Badan Lemas dan Kepala Pusing, Kapan Perlu ke Dokter?</h5>
+                                </div>
+                                <div class="button-portion ">
+                                    <div class="date">
+                                        <i class="mb-0 calendar-ml fa-solid fa-calendar-days"></i>
+                                        <span class="mb-0 text-size-14">Nov 07, 2024</span>
+                                    </div>
+                                    <div class="button">
+                                        <a class="mb-0 read_more text-decoration-none" href="./badan-lemas-dan-kepala-pusing-kapan-perlu-ke-dokter">Read
+                                            More</a>
                                     </div>
                                 </div>
                             </div>
@@ -313,7 +349,7 @@
                         <li class="position-relative"><a href="services"><i
                                     class="fas fa-angle-right"></i>Layanan</a></li>
                         <li class="position-relative"><a href="projects"><i class="fas fa-angle-right"></i>Projects</a></li>
-                        <li class="position-relative"><a href="single-blog"><i
+                        <li class="position-relative"><a href="artikel"><i
                                     class="fas fa-angle-right"></i>Artikel</a></li>
                         <li class="position-relative"><a href="faq"><i
                                     class="fas fa-angle-right"></i>FAQ</a></li>

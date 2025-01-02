@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>5 Manfaat Merayakan Liburan Bersama Keluarga</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,17 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image3.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>5 Manfaat Merayakan Liburan Bersama Keluarga</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : Redaksi PeduliDesa</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Des 26, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Berlibur merupakan hal yang menyenangkan dan bisa dilakukan bersama dengan keluarga. Selain bisa membuat bahagia, melakukan perjalanan liburan bersama keluarga nyatanya juga memiliki beragam manfaat yang sangat sayang jika dilewatkan. <br><br>
+                                Bagi keluarga yang memiliki anak-anak atau bayi mungkin liburan terdengar sulit untuk dilakukan. Namun, jangan salah, liburan keluarga malah bisa memberi manfaat baik untuk perkembangan anak. <br><br>
+                                Agar lebih aman dan menyenangkan, pastikan untuk mempersiapkan perjalanan sebaik mungkin meliputi peralatan mandi, pakaian yang sesuai destinasi, hingga persediaan obat-obatan.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -118,66 +118,50 @@
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
+                            <h6>Inilah Manfaat Merayakan Liburan Bersama Keluarga</h6>
+                            Liburan bersama keluarga tidak hanya menyenangkan, tetapi juga memiliki banyak manfaat. <br>
+                            <br>Tidak perlu terlalu jauh, kamu dan keluarga bisa merasakan manfaat luar biasa dengan melakukan jalan-jalan keliling kota, berenang, hingga berwisata kuliner. <br>
+                            <br>Ada berbagai hal yang bisa kamu dapat dari melakukan liburan bersama keluarga, di antaranya:
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>1. Relaksasi Tubuh dan Pikiran</h6>
+                            Liburan bersama keluarga bisa memberi efek relaksasi. Tidak hanya untuk tubuh, tetapi juga bermanfaat membuat pikiran menjadi lebih tenang.<br>
+                            <br>Setelah menjalani aktivitas yang panjang, liburan bersama keluarga di akhir tahun adalah pilihan terbaik untuk dilakukan. <br>
+                            <br>Saat tubuh dan pikiran merasa tenang, kamu dan keluarga bisa mencoba hal baru bersama, hingga belajar memahami keluarga dalam cara yang mungkin berbeda.                          
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. Terhindar dari Stres</h6>
+                            Stres adalah salah satu masalah yang sering dialami banyak orang, terutama mereka yang menjalani rutinitas harian yang padat. Mulai dari pekerjaan, studi, hingga tanggung jawab lainnya, semua itu dapat menumpuk dan membuat pikiran terasa berat. Salah satu cara yang efektif untuk mengatasi dan menghindari stres adalah dengan meluangkan waktu untuk liburan. <br>
+                            <br>Liburan artinya terbebas dari rutinitas yang bisa membuat stres. Cobalah untuk mengunjungi destinasi favorit atau tempat baru. <br>
+                            <br>Nyatanya, suasana baru yang dirasakan bisa membantu menghindari, bahkan menurunkan tingkat stres.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Memperkuat Imun Tubuh</h6>
+                            Saat liburan, kamu dan keluarga bisa mencoba berbagai aktivitas yang menyenangkan. <br>
+                            <br>Saat tubuh merasa bahagia, hormon seperti endorfin, serotonin, dan dopamin akan diproduksi lebih banyak. Hormon-hormon ini tidak hanya membantu meningkatkan suasana hati, tetapi juga berperan dalam memperkuat sistem imun tubuh. Dengan meningkatnya kekebalan tubuh, kamu dan keluargamu akan menjadi lebih terlindungi dari berbagai penyakit, mulai dari flu biasa hingga penyakit yang lebih serius. <br>
+                            <br>Dengan begitu, tubuh akan menjadi lebih terlindungi dan tidak mudah sakit. Hal ini juga baik untuk perkembangan anak.
                         </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>4. Memperkuat Hubungan Keluarga</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                            Liburan adalah momen istimewa yang bisa dimanfaatkan untuk mempererat hubungan dengan keluarga. Dalam kehidupan sehari-hari yang sibuk, tidak jarang waktu untuk berkumpul bersama keluarga menjadi terbatas. Oleh karena itu, liburan bisa menjadi kesempatan emas untuk membangun hubungan yang lebih harmonis dan penuh kasih sayang. <br>
+                            <br>Ketika hubungan keluarga semakin kuat, dampaknya tidak hanya terasa dalam interaksi sehari-hari tetapi juga pada kesehatan emosional setiap anggota keluarga. Anak-anak yang tumbuh dengan ikatan keluarga yang erat cenderung lebih percaya diri dan memiliki kesehatan mental yang lebih baik. Sementara itu, orang tua juga dapat merasakan kepuasan batin ketika melihat keluarga mereka bahagia dan harmonis.
                         </div><br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                        <div class="content1" data-aos="fade-up" data-aos-duration="700">
+                            <h6>5. Mencegah Insomnia</h6></div>
+                            <div class="content1" data-aos="fade-up" data-aos-duration="700" style="text-align: justify">
+                                Gangguan tidur di malam hari atau insomnia bisa menyerang siapa saja.<br>
+                            <br>Mulai dari tuntutan pekerjaan, rutinitas, sampai hal-hal kecil sekalipun bisa membuat seseorang mengalami gangguan tidur. <br>
+                            <br>Kalau sudah begitu, kualitas tidur bisa menurun dan pada akhirnya berdampak pada kesehatan tubuh secara keseluruhan. <br>
+                            <br>Perbanyak juga minum air putih agar tubuh terhindar dari dehidrasi alias kekurangan cairan dalam tubuh agar aktivitas bisa jalan terus. <br>
+                            <br>Jika liburan di luar ruangan, pastikan untuk menggunakan pelembap dan pelindung agar kulit tidak rusak.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/5-manfaat-merayakan-liburan-bersama-keluarga">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

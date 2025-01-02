@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</title>
+    <title>Natal Sudah Tiba, Hindari Makanan Tidak Sehat Ini</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
@@ -99,17 +99,17 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="main-box">
                         <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                            <img src="./assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                            <img src="./assets/images/singleblog-image2.jpg" alt="" class="img-fluid">
                         </figure>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h7>Ini Ciri Penyakit TBC yang Sudah Parah dan Cara Mengobatinya</h7><br><br>
+                            <h7>Natal Sudah Tiba, Hindari Makanan Tidak Sehat Ini</h7><br><br>
                             <i class="fa-solid fa-user"></i>
-                            <span class="text-size-14 text-mr">By : Ilham Fikriansyah</span>
+                            <span class="text-size-14 text-mr">By : Redaksi PeduliDesa</span>
                             <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                            <span class="mb-0 text-size-14">Des 16, 2024</span>
-                            <p class="text-size-16" style="text-align: justify">Jakarta - TBC atau Tuberkulosis adalah suatu penyakit yang disebabkan oleh bakteri Mycobacterium Tuberculosis. Bakteri tersebut dapat menyerang organ paru-paru manusia sehingga menyebabkan sejumlah gejala, salah satunya batuk yang terus menerus.
-                                Apabila sudah merasakan beberapa gejala TBC, sebaiknya segera pergi ke dokter untuk dilakukan pemeriksaan lebih lanjut. Jangan sampai TBC dibiarkan karena berisiko lebih parah hingga menyebabkan meninggal.
-                                Lantas, apa saja ciri-ciri TBC yang sudah parah atau kronis? Simak pembahasannya dalam artikel ini.</p>
+                            <span class="mb-0 text-size-14">Des 24, 2024</span>
+                            <p class="text-size-16" style="text-align: justify">Perayaan Natal identik dengan beragam sajian khas natal yang tidak hanya terlihat cantik, tetapi juga menggiurkan. Namun, perlu diingat untuk jangan sampai tergoda mengonsumsi semua makanan dari kue-kue manis hingga hidangan berlemak, semuanya terasa sulit untuk ditolak. <br><br>
+                                Berbagai hidangan tradisional Natal biasanya dibuat dengan bahan-bahan kaya rasa, namun sering kali mengandung kalori, gula, dan lemak yang tinggi. Selain itu, acara kumpul keluarga dan teman yang melibatkan makan bersama dapat mendorong kita untuk makan berlebihan tanpa disadari. <br><br>
+                                Oleh karena itu, penting bagi kita untuk tetap menjaga kesehatan di tengah suasana meriah ini dengan memilih makanan secara bijak.</p>
                         </div>
                         <div class="content2" data-aos="fade-up" data-aos-duration="700">
                             <figure class="singleblog-quoteimage">
@@ -118,66 +118,40 @@
                             <p class="mb-0 text-white text-size-18">“Jangan tunggu sakit untuk menghargai sehat. Jadilah disiplin sebelum penyesalan datang.”</p>
                         </div>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Apa Itu TBC?</h6>
-                            TBC merupakan batuk yang disebabkan oleh bakteri Mycobacterium Tuberculosis yang umumnya menyerang paru-paru. TBC juga bisa menyerang bagian tubuh lain, seperti kelenjar getah bening, tulang belakang, dan otak. <br>
-                            <br>Mengutip laman TB Indonesia, TBC bisa menular lewat cairan atau cipratan air liur dari hidung atau mulut yang dilepaskan ke udara (droplet), baik saat pasien yang terinfeksi sedang batuk, bersin, meludah, hingga bicara.
+                            <h6>Ketahui Daftar Makanan Tidak Sehat saat Natal</h6>
+                            Adapun beberapa makanan yang sebaiknya Anda hindari atau konsumsi dalam jumlah terbatas selama Natal. Hal ini bisa karena proses pengolahannya, bahan-bahan makanan yang dipakai, tingginya penggunaan gula, dan lain-lain. <br>
+                            <br>Berikut daftar makanan yang umum dijumpai saat natal:
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>1. Kue-Kue Manis dengan Gula Berlebih</h6>
+                            Kue kering, puding, dan dessert berbasis gula sering menjadi menu wajib saat Natal. Sayangnya, kandungan gula yang tinggi dapat meningkatkan risiko lonjakan gula darah, obesitas, dan masalah kesehatan lainnya. Sebagai alternatif, cobalah membuat kue dengan pemanis alami seperti madu atau stevia.<br><br>                          
+                        </div>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>2. Hidangan Berlemak Tinggi</h6>
+                            Makanan seperti daging panggang dengan banyak lemak, saus berkrim, dan gorengan mengandung lemak jenuh yang berbahaya bagi kesehatan jantung. Sebaiknya pilih daging tanpa lemak dan gunakan metode memasak yang lebih sehat seperti memanggang atau merebus.
+                        </div><br>
+                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                            <h6>3. Minuman Manis dan Bersoda</h6>
+                            Minuman seperti soda, punch, atau cokelat panas dengan whipped cream sering kali kaya akan gula dan kalori. Konsumsi berlebihan dapat menyebabkan peningkatan berat badan dan risiko diabetes. Pilih minuman seperti infused water atau teh herbal tanpa gula untuk alternatif yang lebih sehat.
                         </div><br>
                         <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Gejala Umum TBC</h6>
-                            Ada beberapa gejala umum dari penyakit TBC yang perlu diketahui, berikut sejumlah gejalanya: <br><br>
-                            <ul>
-                                <li>Batuk terus menerus selama tiga minggu atau lebih</li>
-                                <li>Batuk berdarah</li>
-                                <li>Nyeri di bagian dada ketika batuk atau bernapas</li>
-                                <li>Kelelahan</li>
-                                <li>Demam</li>
-                                <li>Kehilangan nafsu makan</li>
-                            </ul>                            
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Ciri Penyakit TBC yang Sudah Parah</h6>
-                            Jika TBC tidak segera diobati maka bisa memperburuk kondisi pengidapnya. Adapun ciri-ciri penyakit TBC yang sudah mulai parah, yaitu: <br> <br>
-                            <ol>
-                                <li>Batuk sudah berlangsung lebih dari tiga minggu dan tidak membaik meskipun sudah diobati dengan obat batuk yang dijual umum.</li>
-                                <li>Batuk TBC disertai dengan dahak berwarna kuning atau hijau, terkadang juga bercampur darah.</li>
-                            </ol>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Jenis-jenis Penyakit TBC</h6>
-                            Selain TBC paru, ada sejumlah penyakit TBC lainnya yang bisa menyerang bagian organ manusia, di antaranya: <br> <br>
-                            <ul>
-                                <li>TB kelenjar getah bening yang menyebabkan pembengkakan merah atau ungu di bawah kulit.</li>
-                                <li>TB ginjal yang menyebabkan adanya darah di dalam urin.</li>
-                                <li>Meningitis (penyakit TB otak) yang bisa menyebabkan sakit kepala atau kebingungan.</li>
-                                <li>TB tulang belakang yang bisa menyebabkan nyeri punggung berkepanjangan.</li>
-                                <li>TB laring yang bisa menyebabkan suara serak.</li>
-                            </ul>
-                        </div>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>Cara Mengobati Penyakit TBC</h6>
-                            Ada sejumlah cara untuk mengobati TBC, tapi akan berbeda-beda tergantung dari jenis infeksi yang dialami. Dilansir situs Web MD dan Kementerian Kesehatan, berikut beberapa cara mengobati TBC:
+                            <h6>4. Makanan Olahan dan Kemasan</h6> </div>
+                            <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
+                                Sosis, nugget, dan makanan olahan lainnya mungkin praktis untuk disajikan, tetapi biasanya mengandung pengawet, garam tinggi, dan bahan kimia tambahan. Lebih baik sajikan makanan segar yang dimasak sendiri di rumah.
                         </div><br>
                         <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>1. Pengobatan TBC Laten</h6>
-                            Sebagai informasi, TBC laten adalah seseorang yang terinfeksi bakteri Mycobacterium Tuberculosis, tetapi tidak menunjukkan gejala TBC. Cara mengobati pasien TBC laten adalah dengan mengkonsumsi obat dari dokter untuk membunuh bakteri dan mencegah infeksi menjadi aktif. <br> <br>
-                            Dokter mungkin akan meresepkan isoniazid, rifapentine, atau rifampisin, baik secara terpisah atau dikombinasikan. Selain itu, pasien juga harus mengkonsumsi obat-obatan tersebut secara rutin selama sembilan bulan dan tidak boleh putus atau berhenti.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>2. Pengobatan TBC Aktif</h6>
-                            Bagi pasien TBC aktif juga akan diberikan beberapa obat oleh dokter, seperti etambutol, isoniazid, pirazinamid, dan rifampisin. Pasien dianjurkan meminum obat tersebut selama 6 hingga 12 bulan tanpa putus.
-                        </div> <br>
-                        <div class="content1" style="text-align: justify" data-aos="fade-up" data-aos-duration="700">
-                            <h6>3. Pengobatan TBC yang Resisten Terhadap Obat</h6>
-                            Jika pasien didiagnosa mengidap penyakit TBC yang resisten terhadap obat, dokter mungkin akan memberikan satu atau lebih obat yang berbeda. Selain itu, pasien diharuskan meminum obat dalam waktu yang lebih lama hingga 30 bulan. <br> <br>
-                            Perlu diingat, meminum obat dalam waktu lama mungkin bisa menyebabkan lebih banyak efek samping. Jadi, sebaiknya konsultasikan lagi dengan dokter. <br><br>
-                            Itu dia penjelasan mengenai ciri-ciri penyakit TBC yang sudah parah. Semoga bermanfaat...
+                            <h6>5. Camilan dengan Kandungan Garam Tinggi</h6>
+                            Keripik, kacang asin, dan camilan serupa dapat meningkatkan tekanan darah dan menyebabkan retensi cairan. Batasi konsumsi camilan semacam ini dan pilih camilan sehat seperti buah-buahan segar atau kacang panggang tanpa garam. <br><br>
+                            Nah, itulah 5 makanan khas natal yang dianggap tidak sehat karena mengandung kalori, lemak, dan gula yang tinggi. <br><br>
+                            Apabila kamu tetap ingin menikmati makanan tersebut saat Natal, ingatlah untuk membatasi jumlah konsumsinya. <br><br>
+                            Jika kamu tidak sadar mengonsumsi makanan tersebut secara berlebihan dan kamu merasa sakit perut, segeralah memeriksakan diri ke dokter. Sebab, bisa jadi kondisi tersebut merupakan gejala atau indikasi akan sembelit atau diare.
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                     <div class="box1" data-aos="fade-up" data-aos-duration="700">
                         <h5>Search News</h5>
-                        <form method="GET" action="/ini-ciri-penyakit-tbc-yang-sudah-parah-dan-cara-mengobatinya">
+                        <form method="GET" action="/natal-sudah-tiba-hindari-makanan-tidak-sehat-ini">
                             <div class="form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <input type="text" name="kategori" id="search" class="form-control upper_layer"

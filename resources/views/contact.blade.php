@@ -67,24 +67,19 @@
                             <a class="nav-link p-0" href="projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="three-column">Artikel</a>
+                            <a class="nav-link p-0" href="artikel">Artikel</a>
                         </li>
                     </ul>
-                    {{-- <div class="header-contact d-flex align-items-center">
+                    <div class="header-contact d-flex align-items-center">
                         <div class="phone d-flex align-items-center">
                             <figure class="mb-0">
                                 <img src="assets/images/phone.png" alt="phone">
                             </figure>
                             <div class="phone-txt">
-                                <span class="d-block">Call us now:</span>
-                                <a href="tel:+0123456789">+012 (345) 6789</a>
-                            </div>
+                                <a href="/contact" class="d-block">HUBUNGI KAMI</a>
+                            </div>                            
                         </div>
-                    </div> --}}
-                </div>
-                <div class="cart-box">
-                    <a href="#"><i class="fas fa-search"></i></a>
-                    <a href="#"><img src="assets/images/cart.png" alt="cart"></a>
+                    </div>
                 </div>
             </nav>
         </div>
@@ -203,15 +198,13 @@
                                 <li class="d-inline-block"><a href="https://www.linkedin.com/login"><i
                                             class="fab fa-linkedin-in"></i></a></li> --}}
                             </ul>
-                            <p data-aos="fade-up" data-aos-duration="700">Nuis aute irure dolor
-                                reprehenderit in volutae
-                                velit esse fugiat...</p>
+                            <p data-aos="fade-up" data-aos-duration="700">Periksa kesehatan Anda dengan layanan terpercaya dan nyaman.</p>
                             <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
                                 <a href="contact">Book Appointment</a>
                             </div>
                         </div>
                     </div>
-                    <h4 data-aos="fade-up" data-aos-duration="700">Alice Waters</h4>
+                    <h4 data-aos="fade-up" data-aos-duration="700">Dr. Ayu Permatasari</h4>
                     <span class="d-block" data-aos="fade-up" data-aos-duration="700">Sycho Founder</span>
                 </div>
                 <div class="member-con text-center">
@@ -230,16 +223,14 @@
                                 <li class="d-inline-block"><a href="https://www.linkedin.com/login"><i
                                             class="fab fa-linkedin-in"></i></a></li> --}}
                             </ul>
-                            <p data-aos="fade-up" data-aos-duration="700">Nuis aute irure dolor
-                                reprehenderit in volutae
-                                velit esse fugiat...</p>
+                            <p data-aos="fade-up" data-aos-duration="700">Atur pola makan dengan saran dari ahli. Mari konsultasikan sekarang juga!</p>
                             <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
                                 <a href="contact">Book Appointment</a>
                             </div>
                         </div>
                     </div>
-                    <h4 data-aos="fade-up" data-aos-duration="700">Jamie Oliver</h4>
-                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Therapy Expert</span>
+                    <h4 data-aos="fade-up" data-aos-duration="700">Dr. Hendri Gunawan</h4>
+                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Dietitian</span>
                 </div>
                 <div class="member-con text-center">
                     <div class="member-img-details position-relative">
@@ -257,16 +248,14 @@
                                 <li class="d-inline-block"><a href="https://www.linkedin.com/login"><i
                                             class="fab fa-linkedin-in"></i></a></li> --}}
                             </ul>
-                            <p data-aos="fade-up" data-aos-duration="700">Nuis aute irure dolor
-                                reprehenderit in volutae
-                                velit esse fugiat...</p>
+                            <p data-aos="fade-up" data-aos-duration="700">Percayakan kesehatan anak Anda kepada kami. Konsultasi ramah anak tersedia setiap hari!</p>
                             <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
                                 <a href="contact">Book Appointment</a>
                             </div>
                         </div>
                     </div>
-                    <h4 data-aos="fade-up" data-aos-duration="700">Clare Smyth</h4>
-                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Sycho Founder</span>
+                    <h4 data-aos="fade-up" data-aos-duration="700">Dr. Silvia Anggraini</h4>
+                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Therapy Expert</span>
                 </div>
                 <div class="member-con text-center">
                     <div class="member-img-details position-relative">
@@ -284,15 +273,13 @@
                                 <li class="d-inline-block"><a href="https://www.linkedin.com/login"><i
                                             class="fab fa-linkedin-in"></i></a></li> --}}
                             </ul>
-                            <p data-aos="fade-up" data-aos-duration="700">Nuis aute irure dolor
-                                reprehenderit in volutae
-                                velit esse fugiat...</p>
+                            <p data-aos="fade-up" data-aos-duration="700">Pulihkan mobilitas Anda dengan terapi yang tepat. Hubungi kami untuk jadwal terapi pribadi!</p>
                             <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
                                 <a href="contact">Book Appointment</a>
                             </div>
                         </div>
                     </div>
-                    <h4 data-aos="fade-up" data-aos-duration="700">Hekim Rswana</h4>
+                    <h4 data-aos="fade-up" data-aos-duration="700">Dr. Herman Pranoto</h4>
                     <span class="d-block" data-aos="fade-up" data-aos-duration="700">Therapy Expert</span>
                 </div>
             </div>
@@ -332,7 +319,7 @@
                         <li class="position-relative"><a href="services"><i
                                     class="fas fa-angle-right"></i>Layanan</a></li>
                         <li class="position-relative"><a href="projects"><i class="fas fa-angle-right"></i>Projects</a></li>
-                        <li class="position-relative"><a href="three-column"><i
+                        <li class="position-relative"><a href="artikel"><i
                                     class="fas fa-angle-right"></i>Artikel</a></li>
                         <li class="position-relative"><a href="faq"><i
                                     class="fas fa-angle-right"></i>FAQ</a></li>
